@@ -1,0 +1,26 @@
+<downloads>
+	<bible>
+		<title>Elberfelder 1905</title>
+		<filename>Elberfelder_1905_Rev_5.xml</filename>
+		<storekey></storekey>
+		<version>10</version>
+		<language>de</language>
+		<free>yes</free>		
+	</bible>
+	<bible>
+		<title>Luther 1912</title>
+		<filename>luther1912.xml</filename>
+		<storekey></storekey>
+		<version>10</version>
+		<language>de</language>
+		<free>yes</free>		
+	</bible>
+	<bible>
+		<title>Schlachter 1951</title>
+		<filename>schlacher1951.xml</filename>
+		<storekey></storekey>
+		<version>10</version>
+		<language>de</language>
+		<free>yes</free>		
+	</bible>
+</downloads>
