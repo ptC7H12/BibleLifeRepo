@@ -1,26 +1,255 @@
 <downloads>
 	<bible>
 		<title>Elberfelder 1905</title>
-		<filename>https://raw.githubusercontent.com/ptC7H12/BibleLifeRepo/master/Elberfelder_1905_Rev_5.xml</filename>
+		<filename>http://1drv.ms/1E4QrBJ</filename>
 		<storekey></storekey>
 		<version>10</version>
 		<language>de</language>
-		<free>yes</free>		
+		<description>Die Elberfelderbibel von 1905</description>
+		<copyright>We believe that this Bible is found in the Public Domain</copyright>
+		<free>yes</free>
+      	<filesize>5,67MB</filesize>
+		<identifier>elb1905</identifier>
 	</bible>
 	<bible>
 		<title>Luther 1912</title>
-		<filename>https://raw.githubusercontent.com/ptC7H12/BibleLifeRepo/master/luther1912.xml</filename>
+		<filename>http://1drv.ms/1If9HR0</filename>
 		<storekey></storekey>
 		<version>10</version>
 		<language>de</language>
-		<free>yes</free>		
+		<description>Lutherbibel von 1912</description>
+		<copyright></copyright>
+		<free>yes</free>
+      	<filesize>4,93MB</filesize>
+		<identifier>LUTH1912AP</identifier>
 	</bible>
 	<bible>
 		<title>Schlachter 1951</title>
-		<filename>https://raw.githubusercontent.com/ptC7H12/BibleLifeRepo/master/schlachter1951.xml</filename>
+		<filename>http://1drv.ms/1KMQFCu</filename>
 		<storekey></storekey>
 		<version>10</version>
 		<language>de</language>
-		<free>yes</free>		
+		<description>Die Bibel - Uebersetzung von Franz Eugen Schlachter</description>
+		<copyright></copyright>
+		<free>yes</free>
+      	<filesize>5,06MB</filesize>
+		<identifier>SCH1951</identifier>
+	</bible>
+	<bible>
+		<title>Neue evangelistische Uebersetzung</title>
+		<filename>http://1drv.ms/1If9TQj</filename>
+		<storekey></storekey>
+		<version>10</version>
+		<language>de</language>
+		<description></description>
+		<copyright>Copyright 2014 by Karl-Heinz Vanheiden, Ahornweg 3, 07926 Gefell</copyright>
+		<free>yes</free>
+      	<filesize>5,53MB</filesize>
+		<identifier>GerNeUe</identifier>
+	</bible>
+	<bible>
+		<title>Alemannische Bibel NT</title>
+		<filename>http://1drv.ms/1MIqzU8</filename>
+		<storekey></storekey>
+		<version>10</version>
+		<language>de</language>
+		<description>Dietmar Wiesler erhebt nicht den Anspruch auf "den" Alemannischen Dialekt ! Denn bei uns heißt von "vu" in Weil o. Schopfheim sagt man "vo" oder Leute wird "Lit, Lyt, Lüt" ausgesprochen usw.</description>
+		<copyright></copyright>
+		<free>yes</free>
+      	<filesize>1,22MB</filesize>
+		<identifier>ALMNT</identifier>
+	</bible>
+	<bible>
+		<title>Albrecht Bibel 1926</title>
+		<filename>http://1drv.ms/1M7kOPV</filename>
+		<storekey></storekey>
+		<version>10</version>
+		<language>de</language>
+		<description>Neues Testament und Psalmen</description>
+		<copyright></copyright>
+		<free>yes</free>
+      	<filesize>2,72MB</filesize>
+		<identifier>ALBRECHT1926</identifier>
+	</bible>
+	<bible>
+		<title>FreeBible 2004</title>
+		<filename>http://1drv.ms/1KMkk1p</filename>
+		<storekey></storekey>
+		<version>10</version>
+		<language>de</language>
+		<description>Die FreeBible von 2004</description>
+		<copyright></copyright>
+		<free>yes</free>
+      	<filesize>5,64MB</filesize>
+		<identifier>FB2004</identifier>
+	</bible>
+	<bible>
+		<title>Luther 1545</title>
+		<filename>http://1drv.ms/1KMRE5H</filename>
+		<storekey></storekey>
+		<version>10</version>
+		<language>de</language>
+		<description>Dieser Bibeltext ist eine eingedeutschte Version der letzten von Luther 1545 in Druck gegebenen Übersetzung der Bibel. Ursprünglich erschien sie als:
+"Martin Luther: Biblia: das ist: Die gantze Heilige Schrifft. Deudsch Auffs new zugericht. Wittenberg: Hans Lufft 1545 (Ausgabe letzter Hand)". </description>
+		<copyright></copyright>
+		<free>yes</free>
+      	<filesize>4,93MB</filesize>
+		<identifier>LUTH1545</identifier>
+	</bible>
+	<bible>
+		<title>Johannes Greber 1936 NT</title>
+		<filename>http://1drv.ms/1N5cw8d</filename>
+		<storekey></storekey>
+		<version>10</version>
+		<language>de</language>
+		<description>Johannes Greber wurde am 2. Mai 1874 in Wenigerath Kreis Bernkastel geboren. Er studierte für das Priesteramt in Trier und wurde im Jahre 1900 zum Priester geweiht.</description>
+		<copyright></copyright>
+		<free>yes</free>
+      	<filesize>1,46MB</filesize>
+		<identifier>GREB</identifier>
+	</bible>
+	<bible>
+		<title>Interlinearübersetzung</title>
+		<filename>http://1drv.ms/1MI1wjb</filename>
+		<storekey></storekey>
+		<version>10</version>
+		<language>de</language>
+		<description>Interlinear Übersetzungen = Wort für Wort Übersetzung Griechisch nach Deutsch Einige Verse fehlen, einige sind doppelt.</description>
+		<copyright></copyright>
+		<free>yes</free>
+      	<filesize>1,21MB</filesize>
+		<identifier>ILGRDE</identifier>
+	</bible>
+	<bible>
+		<title>American King James Version</title>
+		<filename>http://1drv.ms/1OLCXAo</filename>
+		<storekey></storekey>
+		<version>10</version>
+		<language>en</language>
+		<description>This is a new translation of the Bible, based on the original King James Version. It is a simple word for word update from the King James English. I have taken care to change nothing doctrinally, but to simply update the spelling and vocabulary. I have not changed the grammar because that could alter the doctrine.</description>
+		<copyright>I am hereby putting the American King James version of the Bible into the public domain on November 8, 1999</copyright>
+		<free>yes</free>
+      	<filesize>4,92MB</filesize>
+		<identifier>AKJV</identifier>
+	</bible>
+	<bible>
+		<title>King James Version</title>
+		<filename>http://1drv.ms/1UiYR1z</filename>
+		<storekey></storekey>
+		<version>10</version>
+		<language>en</language>
+		<description>In 1604, King James I of England authorized that a new translation of the Bible into English be started. It was finished in 1611, just 85 years after the first translation of the New Testament into English appeared (Tyndale, 1526). The Authorized Version, or King James Version, quickly became the standard for English-speaking Protestants. Its flowing language and prose rhythm has had a profound influence on the literature of the past 300 years.</description>
+		<copyright></copyright>
+		<free>yes</free>
+      	<filesize>4,98MB</filesize>
+		<identifier>KJV</identifier>
+	</bible>
+	<bible>
+		<title>King James Version Pure Cambridge Edition</title>
+		<filename>http://1drv.ms/1MI34d8</filename>
+		<storekey></storekey>
+		<version>10</version>
+		<language>en</language>
+		<description>The actual King James Bible text of the Pure Cambridge Edition (PCE) has been presented here, free of any typographical error, and is completely correct. It is scrupulously exact in typesetting right down to the italics and punctuation.   This precise edition of the King James Bible is wholly based on the received traditional text as was published by Cambridge University Press and by Collins publishers. The Pure Cambridge Edition (first published circa 1900) is the product of the process of textual purification that has occurred since 1611 when the Authorized Version was completed, and has been used (often unwittingly) as the received text for many decades. Millions of copies conformed to this edition were issued by Bible and missionary societies in the twentieth century. This text stands in contrast to all other editions (especially newly edited and modernised ones). The providentially established and correct text has, among other things, “Geba” not “Gaba” at Ezra 2:26.</description>
+		<copyright>Public Domain</copyright>
+		<free>yes</free>
+      	<filesize>5,24MB</filesize>
+		<identifier>KJVPCE</identifier>
+	</bible>
+	<bible>
+		<title>Revised Standard Version</title>
+		<filename>http://1drv.ms/1M1kFfr</filename>
+		<storekey></storekey>
+		<version>10</version>
+		<language>en</language>
+		<description>The Holy Bible, Revised Standard Version 1952 (RSV), the authorized revision of the American Standard Version of 1901.</description>
+		<copyright></copyright>
+		<free>yes</free>
+      	<filesize>4,79MB</filesize>
+		<identifier>RSV</identifier>
+	</bible>
+	<bible>
+		<title>La Bible Fillion de Louis Claude Fillion</title>
+		<filename>http://1drv.ms/1DnQKwm</filename>
+		<storekey></storekey>
+		<version>10</version>
+		<language>fr</language>
+		<description>Louis-Claude Fillion (25 juin 1843 à Saint-Bonnet-de-Joux dans le département de Saône-et-Loire en France - 12 octobre 1927  à Issy en France) était un professeur d'Écriture sainte et d'hébreu  et un exégète français. Ordonné prêtre en 1867, admis dans la Compagnie de Saint-Sulpice, il fut professeur d'Écriture sainte et d'hébreu au grand séminaire de Reims de 1871 à 1874, et au grand séminaire de Lyon, de 1874 à 1893. Au mois d'octobre 1893, il fut nommé à l'Institut catholique de Paris où il occupa la chaire d'exégèse et d'Écriture sainte. Dix ans plus tard, il fut nommé membre de la Commission biblique pontificale.D'une vaste érudition, très au courant des travaux modernes, il a écrit de nombreux livres d'exégèse qui le rattachent à une école de pensée plutôt modérée.L'abbé Fillion mourut à Issy le 12 octobre 1927.</description>
+		<copyright></copyright>
+		<free>yes</free>
+      	<filesize>5,26MB</filesize>
+		<identifier>FILL</identifier>
+	</bible>
+	<bible>
+		<title>French Louis segond</title>
+		<filename>http://1drv.ms/1OLElDk</filename>
+		<storekey></storekey>
+		<version>10</version>
+		<language>fr</language>
+		<description></description>
+		<copyright></copyright>
+		<free>yes</free>
+      	<filesize>5,05MB</filesize>
+		<identifier>FREN</identifier>
+	</bible>
+	<bible>
+		<title>Reina Valera 1989</title>
+		<filename>http://1drv.ms/1g1KpvU</filename>
+		<storekey></storekey>
+		<version>10</version>
+		<language>es</language>
+		<description></description>
+		<copyright></copyright>
+		<free>yes</free>
+      	<filesize>4,88MB</filesize>
+		<identifier>RVA</identifier>
+	</bible>
+	<bible>
+		<title>Spanish Reina Valera</title>
+		<filename>http://1drv.ms/1P1dO5v</filename>
+		<storekey></storekey>
+		<version>10</version>
+		<language>es</language>
+		<description></description>
+		<copyright></copyright>
+		<free>yes</free>
+      	<filesize>4,77MB</filesize>
+		<identifier>SPARV</identifier>
+	</bible>
+	<bible>
+		<title>Riveduta 1990</title>
+		<filename>http://1drv.ms/1DnRAsY</filename>
+		<storekey></storekey>
+		<version>10</version>
+		<language>it</language>
+		<description></description>
+		<copyright></copyright>
+		<free>yes</free>
+      	<filesize>4,96MB</filesize>
+		<identifier>IRV_1990</identifier>
+	</bible>
+	<bible>
+		<title>Italian Version</title>
+		<filename>http://1drv.ms/1KMmoXc</filename>
+		<storekey></storekey>
+		<version>10</version>
+		<language>it</language>
+		<description></description>
+		<copyright></copyright>
+		<free>yes</free>
+      	<filesize>5,37MB</filesize>
+		<identifier>ITALIAN1</identifier>
+	</bible>
+	<bible>
+		<title>Russian Synodal Translation</title>
+		<filename>http://1drv.ms/1Nhfs1V</filename>
+		<storekey></storekey>
+		<version>10</version>
+		<language>ru</language>
+		<description></description>
+		<copyright></copyright>
+		<free>yes</free>
+      	<filesize>6,85MB</filesize>
+		<identifier>RST</identifier>
 	</bible>
 </downloads>
